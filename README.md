@@ -1,3 +1,3 @@
-V "programerstvu" sem bolj ali manj začetnik, zaenkrat omejen na HTML, CSS in Javascript, s Pythonom pa se šele spoznavam.
+I am amateur in programming.
 
-Ta GitHub profil je namenjen predvsem potrebam [mojega spletnega mesta](https://janezpavelzebovec.net/) ([GitHub spletno mesto](https://janezpavelzebovec.github.io)), ki je [v mojem repozitoriju](https://github.com/janezpavelzebovec/janezpavelzebovec.github.io).
+My main project here is [my website](https://janezpavelzebovec.net/) ([GitHub website - redirected](https://janezpavelzebovec.github.io)), located in [my repository](https://github.com/janezpavelzebovec/janezpavelzebovec.github.io).
